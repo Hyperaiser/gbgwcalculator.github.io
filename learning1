@@ -1,0 +1,12 @@
+user.json
+{
+"name":"Dat",
+"favoriteNumber":6,
+"isProgrammer": false,
+"hoobies": ["Running", "Gamming"],
+"friend": [{
+"name": "Dung",
+"favoriteNumber": "1",
+"isProgrammer": false,
+}]
+}
